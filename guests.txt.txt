@@ -1,0 +1,2 @@
+1|Rahul Patel|9876543210|rahul@example.com
+2|Priya Shah|9876501234|priya@example.com
